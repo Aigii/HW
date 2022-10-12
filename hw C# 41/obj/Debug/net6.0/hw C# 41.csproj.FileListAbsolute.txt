@@ -1,0 +1,15 @@
+/Users/aigerim/Desktop/hw github/hw C# 41/bin/Debug/net6.0/hw C# 41
+/Users/aigerim/Desktop/hw github/hw C# 41/bin/Debug/net6.0/hw C# 41.deps.json
+/Users/aigerim/Desktop/hw github/hw C# 41/bin/Debug/net6.0/hw C# 41.runtimeconfig.json
+/Users/aigerim/Desktop/hw github/hw C# 41/bin/Debug/net6.0/hw C# 41.dll
+/Users/aigerim/Desktop/hw github/hw C# 41/bin/Debug/net6.0/hw C# 41.pdb
+/Users/aigerim/Desktop/hw github/hw C# 41/obj/Debug/net6.0/hw C# 41.csproj.AssemblyReference.cache
+/Users/aigerim/Desktop/hw github/hw C# 41/obj/Debug/net6.0/hw C# 41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aigerim/Desktop/hw github/hw C# 41/obj/Debug/net6.0/hw C# 41.AssemblyInfoInputs.cache
+/Users/aigerim/Desktop/hw github/hw C# 41/obj/Debug/net6.0/hw C# 41.AssemblyInfo.cs
+/Users/aigerim/Desktop/hw github/hw C# 41/obj/Debug/net6.0/hw C# 41.csproj.CoreCompileInputs.cache
+/Users/aigerim/Desktop/hw github/hw C# 41/obj/Debug/net6.0/hw C# 41.dll
+/Users/aigerim/Desktop/hw github/hw C# 41/obj/Debug/net6.0/refint/hw C# 41.dll
+/Users/aigerim/Desktop/hw github/hw C# 41/obj/Debug/net6.0/hw C# 41.pdb
+/Users/aigerim/Desktop/hw github/hw C# 41/obj/Debug/net6.0/hw C# 41.genruntimeconfig.cache
+/Users/aigerim/Desktop/hw github/hw C# 41/obj/Debug/net6.0/ref/hw C# 41.dll
